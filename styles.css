@@ -1,0 +1,8 @@
+songs {width: 60%;  margin: 100px auto 100px auto; padding: 20px; border: 20px solid #4ed0d0; background-color: #ffffff;} /*min-height: 300px*/
+song {display:block; margin-bottom: 30px;}
+song artist {display:inline-block; font-size: 36px; text-transform: capitalize; color: #42a12f; width:200px;}
+song title{font-size:28px; display:inline-block; padding-right: 300;}
+song genre:before {display: inline-block;}
+song year {display: block; width:200px;}
+/*song year:before {content: "Color options"; font-size: 22px; display:block; }*/
+flower colors color {list-style-type:disc; list-style-position:inside; display:list-item;}

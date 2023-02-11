@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href = "styles.css" ?>
+<songs>
+    <song>
+        <artist>Frank Ocean</artist>
+        <title>Nice</title>
+        <year>2016</year>
+        <genre>R&amp;B</genre>
+    </song>
+    <song>
+        <artist>Beyonce</artist>
+        <title>BREAK MY SOUL</title>
+        <year>2022</year>
+        <genre>R&amp;B</genre>
+    </song>
+    <song>
+        <artist>Daft Punk</artist>
+        <title>Instant Crush</title>
+        <year>2013</year>
+        <genre>Dance/Electronic</genre>
+    </song>
+    <song>
+        <artist>Whitney Houston</artist>
+        <title>I Wanna Dance with Somebody (Who Loves Me)</title>
+        <year>1987</year>
+        <genre>Dance/Pop</genre>
+    </song>
+    <song>
+        <artist>Charli XCX</artist>
+        <title>Forever</title>
+        <year>2020</year>
+        <genre>Pop</genre>
+    </song>
+    <song>
+        <artist>David Bowie</artist>
+        <title>Starman</title>
+        <year>1969</year>
+        <genre>Glam rock</genre>
+    </song>
+    <song>
+        <artist>Foushee</artist>
+        <title>Smile</title>
+        <year>2022</year>
+        <genre>Pop</genre>
+    </song>
+    <song>
+        <artist>Francis and the Lights</artist>
+        <title>See Her Out(That Just Life)</title>
+        <year>2016</year>
+        <genre>R&amp;B</genre>
+    </song>
+    <song>
+        <artist>Isaiah Rashad</artist>
+        <title>Score</title>
+        <year>2021</year>
+        <genre>R&amp;B</genre>
+    </song>
+    <song>
+        <artist>Kaytranada</artist>
+        <title>Freefall</title>
+        <year>2019</year>
+        <genre>Dance/Electronic</genre>
+    </song>
+</songs>
